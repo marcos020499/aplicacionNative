@@ -1,0 +1,6 @@
+module Pods_aplicacionNative_aplicacionNativeTests {
+  umbrella header "Pods-aplicacionNative-aplicacionNativeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
